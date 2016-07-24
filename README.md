@@ -1,6 +1,6 @@
 # Netter
 
-[![CI Status](http://img.shields.io/travis/Max Giraldo/Netter.svg?style=flat)](https://travis-ci.org/Max Giraldo/Netter)
+[![CI Status](http://img.shields.io/travis/maxgiraldo/Netter.svg?style=flat)](https://travis-ci.org/maxgiraldo/Netter)
 [![Version](https://img.shields.io/cocoapods/v/Netter.svg?style=flat)](http://cocoapods.org/pods/Netter)
 [![License](https://img.shields.io/cocoapods/l/Netter.svg?style=flat)](http://cocoapods.org/pods/Netter)
 [![Platform](https://img.shields.io/cocoapods/p/Netter.svg?style=flat)](http://cocoapods.org/pods/Netter)
