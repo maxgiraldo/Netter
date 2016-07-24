@@ -1,0 +1,22 @@
+PODS:
+  - Netter (0.1.0)
+  - Nimble (3.2.0)
+  - Quick (0.9.2)
+
+DEPENDENCIES:
+  - Netter (from `../`)
+  - Nimble (~> 3.0)
+  - Quick (~> 0.8)
+
+EXTERNAL SOURCES:
+  Netter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Netter: 947701b1309c527d15532dcd6df3628ba067d4af
+  Nimble: 703854335d181df169bbca9c97117b5cf8c47c1d
+  Quick: 18d057bc66451eedd5d1c8dc99ba2a5db6e60226
+
+PODFILE CHECKSUM: 73e2fd0b4cdfdad87a63ae1e1ad84c400e139013
+
+COCOAPODS: 1.0.1
