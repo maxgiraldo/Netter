@@ -39,7 +39,7 @@ public enum NetterDataResult {
 	case Failure(String?)
 }
 
-public class Netter {
+public struct Netter {
 	
 	public init() {}
 	
@@ -59,10 +59,7 @@ public class Netter {
 		case .POST:
 			request.HTTPMethod = "POST"
 			request.addValue("multipart/form-data", forHTTPHeaderField: "Content-Type")
-		default:
-			return nil
 		}
-		
 		return request
 	}
 	
