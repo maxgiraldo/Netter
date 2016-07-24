@@ -1,0 +1,7 @@
+use_frameworks!
+target 'Netter_Tests' do
+  pod 'Netter', :path => '../'
+  
+  pod 'Quick', '~> 0.8'
+  pod 'Nimble', '~> 3.0'
+end
